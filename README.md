@@ -9,7 +9,7 @@
 
 - 🌱I’m currently Student at **Microverse**
 
-- 💬 Ask me about **I am currintly **
+- 💬 Ask me about **HTML, CSS, JavaScript **
 
 - 📫 How to reach me **mhnazary2020@yahoo.com**
 
