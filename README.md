@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mhnazary" target="blank"><img src="https://img.shields.io/twitter/follow/mhnazary?logo=twitter&style=for-the-badge" alt="mhnazary" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript , React**
+- 🌱I’m currently Student at **Microverse**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **I am currintly **
 
 - 📫 How to reach me **mhnazary2020@yahoo.com**
 
