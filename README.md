@@ -9,7 +9,7 @@
 
 - 🌱I’m currently Student at **Microverse**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux **
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React, Redux **
 
 - 📫 How to reach me **mhnazary2020@yahoo.com**
 
