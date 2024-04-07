@@ -18,7 +18,7 @@
 <a href="https://twitter.com/mhnazary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhnazary" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mhnazary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhnazary" height="30" width="40" /></a>
 <a href="https://fb.com/mhnazary01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhnazary01" height="30" width="40" /></a>
-<a href="https://instagram.com/mahram.hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahram.hossain" height="30" width="40" /></a>
+<a href="https://instagram.com/mahram.hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahram.hossain" height="31" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
