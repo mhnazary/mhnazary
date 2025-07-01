@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mhnazary" target="blank"><img src="https://img.shields.io/twitter/follow/mhnazary?logo=twitter&style=for-the-badge" alt="mhnazary" /></a> </p>
 
-- 🌱I’m currently Student at **Microverse**
+- 🌱I’m currently Mobile and Web **Microverse**
 
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React, Redux **
 
