@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mhnazary" target="blank"><img src="https://img.shields.io/twitter/follow/mhnazary?logo=twitter&style=for-the-badge" alt="mhnazary" /></a> </p>
 
-- 🌱I’m currently Mobile and Web **Microverse**
+- 🌱I’m currently Learning About Flutter
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React, Redux **
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React, Redux, NodeJs, Flutter **
 
 - 📫 How to reach me **mhnazary2020@yahoo.com**
 
