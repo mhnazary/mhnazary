@@ -9,7 +9,7 @@
 
 - 🌱I’m currently Learning About Flutter
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React, Redux, NodeJs, Flutter **
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, Javascript, React, Redux, NodeJs, Flutter **
 
 - 📫 How to reach me **mhnazary2020@yahoo.com**
 
