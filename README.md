@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mhnazary" target="blank"><img src="https://img.shields.io/twitter/follow/mhnazary?logo=twitter&style=for-the-badge" alt="mhnazary" /></a> </p>
 
-- 🌱I’m currently Learning About Flutter
+- 🌱I’m currently Learning Flutter
 
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, Javascript, React, Redux, NodeJs, Flutter **
 
